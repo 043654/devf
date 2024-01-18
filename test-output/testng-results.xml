@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-01-18T14:18:05 CST" name="测试样例" finished-at="2024-01-18T14:18:05 CST" duration-ms="37">
+    <groups>
+    </groups>
+    <test started-at="2024-01-18T14:18:05 CST" name="测试1" finished-at="2024-01-18T14:18:05 CST" duration-ms="21">
+      <class name="lv.dong.Dev.controller.Demo">
+        <test-method signature="demo()[pri:0, instance:lv.dong.Dev.controller.Demo@2c1f1a1f]" started-at="2024-01-18T14:18:05 CST" name="demo" finished-at="2024-01-18T14:18:05 CST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- demo -->
+      </class> <!-- lv.dong.Dev.controller.Demo -->
+    </test> <!-- 测试1 -->
+    <test started-at="2024-01-18T14:18:05 CST" name="测试2" finished-at="2024-01-18T14:18:05 CST" duration-ms="1">
+      <class name="lv.dong.Dev.services.Demo1">
+        <test-method signature="demo()[pri:0, instance:lv.dong.Dev.services.Demo1@57423e38]" started-at="2024-01-18T14:18:05 CST" name="demo" finished-at="2024-01-18T14:18:05 CST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- demo -->
+      </class> <!-- lv.dong.Dev.services.Demo1 -->
+    </test> <!-- 测试2 -->
+  </suite> <!-- 测试样例 -->
+</testng-results>

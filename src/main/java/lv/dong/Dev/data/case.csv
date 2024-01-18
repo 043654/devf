@@ -1,0 +1,6 @@
+﻿接口状态,请求路径,描述,请求报文,reault
+231,http://10.103.55.2:8080/micro/bytedabce/10000224/credit,授信申请,授信申请.json,"{""code"":1}"
+done,http://10.103.55.2:8080/micro/bytedabce/10000225/credit,授信申请查询,授信申请.json,"{""code"":1}"
+done,http://10.103.55.2:8080/micro/bytedabce/10000225/credit,授信申请查询,授信申请.json,"{""code"":1}"
+done,http://10.103.55.2:8080/micro/bytedabce/10000225/credit,授信申请查询,授信申请.json,"{""code"":1}"
+done,http://10.103.55.2:8080/micro/bytedabce/10000225/credit,授信申请查询,授信申请.json,"{""code"":1}"

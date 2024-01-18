@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="测试样例">
+    <test name="测试1" verbose="1">
+        <packages>
+            <package name="lv.dong.Dev.controller"/>
+        </packages>
+    </test>
+<!--    <test name="测试2" verbose="1">-->
+<!--        <packages>-->
+<!--            <package name="lv.dong.Dev.services"/>-->
+<!--        </packages>-->
+<!--    </test>-->
+</suite>
